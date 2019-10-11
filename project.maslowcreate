@@ -137,7 +137,7 @@
         },
         {
             "atomType": "Molecule",
-            "name": "Tutorial",
+            "name": "Tutorial1",
             "x": 0,
             "y": 0,
             "uniqueID": 465361,
@@ -381,5 +381,5 @@
             "fileTypeVersion": 1
         }
     ],
-    "circleSegmentSize": 2
+    "circleSegmentSize": "0.1"
 }
